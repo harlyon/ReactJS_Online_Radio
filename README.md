@@ -1,5 +1,5 @@
 
-I created a ReactjS Online radio station for my favorite Kenyan radio station Homeboyz Radio (hbr 103.5).
+ReactjS Online radio station for my favorite Kenyan radio station Homeboyz Radio (hbr 103.5).
 
 Links: 
 Demo: https://lnkd.in/d2aFsFd
